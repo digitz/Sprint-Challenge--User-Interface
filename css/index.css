@@ -144,3 +144,27 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.jumboimg {
+    margin-bottom: 20px;
+}
+
+.parentnav {
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    padding: 35px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.lambdablack {
+    padding: 20px;;
+}
+
