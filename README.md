@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
- Block displays element as a block and it takes up whole width of the page
+ Block displays element as a block and it takes up whole width of the page <br?
  Inline displays element as inline and any height and width properties have no effect
  
 3. What are the 4 areas of the box model?
