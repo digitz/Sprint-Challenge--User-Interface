@@ -209,3 +209,52 @@ footer nav a {
 
 
 
+.about-about {
+    padding-bottom: 20px;
+    margin: 20px;
+    border-bottom: black 1px dashed
+    
+   
+}
+
+.howwework {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    padding: 20px;
+
+}
+
+.strategy {
+    width: 49%;
+    border-bottom: 1px dashed black;
+    margin-bottom: 50px;  
+}
+
+.ourwork {
+     width: 49%;
+     border-bottom: 1px dashed black;
+     margin-bottom: 50px;  
+}
+
+.places {
+    width: 49%;
+    border-bottom: 1px dashed black;
+    margin-bottom: 50px;  
+}
+
+.collaboration {
+    width: 49%;
+    border-bottom: 1px dashed black;
+    margin-bottom: 50px;  
+}
+
+.learnmore {
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 15px;
+    width: 35%;
+}
+
