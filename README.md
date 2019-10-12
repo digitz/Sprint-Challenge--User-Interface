@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
- It's our page skeleton. It's a way for a browser to read our page in a way that is understandable for both computers and humans to understand. Whole page content is HTML.
+ It's our page skeleton. It's a way for a browser to read our page in a way that is understandable for both computers and humans. Without HTML there is not content on our page.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
