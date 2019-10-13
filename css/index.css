@@ -145,119 +145,126 @@ footer nav a {
     text-decoration: none;
 }
 
-.jumboimg {
-    margin-bottom: 20px;
-}
-
-.parentnav {
+nav {
     display: flex;
+    justify-content: space-between;
+    padding: 20px 0px 20px 0px;
+    width: 95%;
+    
 }
 
-.navbar {
+nav a {
     display: flex;
-}
-
-.navbar a {
-    padding: 35px;
+    align-items: flex-end;
     text-decoration: none;
     color: black;
-
+    
 }
 
-.lambdablack {
-    padding: 20px;;
+.jumboimg {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.middle-content .boxes .teal {
+.middle-content .boxes :nth-child(1) {
     background-color: teal;
 }
 
-.middle-content .boxes .gold {
+.middle-content .boxes :nth-child(2) {
     background-color: gold;
 }
 
-.middle-content .boxes .cadetblue {
+.middle-content .boxes :nth-child(3) {
     background-color: cadetblue;
 }
-.middle-content .boxes .coral {
+
+.middle-content .boxes :nth-child(4) {
     background-color: coral;
 }
 
-.middle-content .boxes .crimson {
+.middle-content .boxes :nth-child(5) {
     background-color: crimson;
 }
 
-.middle-content .boxes .forestgreen {
+.middle-content .boxes :nth-child(6) {
     background-color: forestgreen;
 }
 
-.middle-content .boxes .darkorchid {
+.middle-content .boxes :nth-child(7) {
     background-color: darkorchid;
 }
 
-.middle-content .boxes .hotpink {
+.middle-content .boxes :nth-child(8) {
     background-color: hotpink;
 }
 
-.middle-content .boxes .indigo {
+.middle-content .boxes :nth-child(9) {
     background-color: indigo;
 }
 
-.middle-content .boxes .dodgerblue {
+.middle-content .boxes :nth-child(10) {
     background-color: dodgerblue;
 }
 
 
+/* ABOUT PAGE */
 
-.about-about {
-    padding-bottom: 20px;
-    margin: 20px;
-    border-bottom: black 1px dashed
-    
-   
+.jumboabout {
+    margin-top: 20px;
 }
 
-.howwework {
+.about-nav {
+    margin: 20px 0px 20px 0px;
+    border-bottom: 1px dashed black;
+    padding: 20px;
+}
+
+.content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin: 10px;
+    
 
-    padding: 20px;
 
 }
 
 .strategy {
-    width: 49%;
+    width: 370px;
     border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    margin-bottom: 50px;    
+}
+
+.howwework {
+    width: 370px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
     margin-bottom: 50px;  
 }
 
-.ourwork {
-     width: 49%;
-     border-bottom: 1px dashed black;
-     margin-bottom: 50px;  
-}
-
-.places {
-    width: 49%;
+.wherewework {
+    width: 370px;
     border-bottom: 1px dashed black;
+    padding-bottom: 20px;
     margin-bottom: 50px;  
 }
 
 .collaboration {
-    width: 49%;
+    width: 370px;
     border-bottom: 1px dashed black;
+    padding-bottom: 20px;
     margin-bottom: 50px;  
 }
 
-.learnmore {
-    margin-top: 20px;
-    border: 2px solid black;
+button {
+    padding: 10px 20px;
+    border: 1px solid;
     border-radius: 6px;
-    padding: 15px;
-    width: 35%;
+    background-color: white;
+    margin: 10px 0px 5px 0px;
 }
 
 .worktogether {
-    padding: 20px;
+    padding: 0px 0px 40px 10px;
 }
