@@ -144,3 +144,127 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px 20px 0px;
+    width: 95%;
+    
+}
+
+nav a {
+    display: flex;
+    align-items: flex-end;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.jumboimg {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.middle-content .boxes :nth-child(1) {
+    background-color: teal;
+}
+
+.middle-content .boxes :nth-child(2) {
+    background-color: gold;
+}
+
+.middle-content .boxes :nth-child(3) {
+    background-color: cadetblue;
+}
+
+.middle-content .boxes :nth-child(4) {
+    background-color: coral;
+}
+
+.middle-content .boxes :nth-child(5) {
+    background-color: crimson;
+}
+
+.middle-content .boxes :nth-child(6) {
+    background-color: forestgreen;
+}
+
+.middle-content .boxes :nth-child(7) {
+    background-color: darkorchid;
+}
+
+.middle-content .boxes :nth-child(8) {
+    background-color: hotpink;
+}
+
+.middle-content .boxes :nth-child(9) {
+    background-color: indigo;
+}
+
+.middle-content .boxes :nth-child(10) {
+    background-color: dodgerblue;
+}
+
+
+/* ABOUT PAGE */
+
+.jumboabout {
+    margin-top: 20px;
+}
+
+.about-nav {
+    margin: 20px 0px 20px 0px;
+    border-bottom: 1px dashed black;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 10px;
+    
+
+
+}
+
+.strategy {
+    width: 370px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    margin-bottom: 50px;    
+}
+
+.howwework {
+    width: 370px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    margin-bottom: 50px;  
+}
+
+.wherewework {
+    width: 370px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    margin-bottom: 50px;  
+}
+
+.collaboration {
+    width: 370px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    margin-bottom: 50px;  
+}
+
+button {
+    padding: 10px 20px;
+    border: 1px solid;
+    border-radius: 6px;
+    background-color: white;
+    margin: 10px 0px 5px 0px;
+}
+
+.worktogether {
+    padding: 0px 0px 40px 10px;
+}
